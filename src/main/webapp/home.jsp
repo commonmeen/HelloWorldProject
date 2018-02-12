@@ -2,10 +2,13 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <title></title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>INT206 SOFTWARE PROJECT MANAGEMENT</h1>
+
+        <p>" <%=request.getAttribute("message") %> "</p><br><br><br>
+        <img src="image/world.gif">
     </body>
 </html>
