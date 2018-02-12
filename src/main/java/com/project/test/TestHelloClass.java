@@ -5,10 +5,19 @@
  */
 package com.project.test;
 
+import com.project.model.HelloClass;
+
 /**
  *
  * @author KUROMMNK
  */
 public class TestHelloClass {
+    
+    public static void main(String args[]){
+        HelloClass helloTest = new HelloClass(1);
+        
+        System.out.println(helloTest.pullMessage(1));
+        
+    }
     
 }
