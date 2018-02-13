@@ -1,14 +1,35 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
-    <head>
-        <link rel="stylesheet" type="text/css" href="css/style.css">
-        <title></title>
-    </head>
-    <body>
-        <h1>INT206 SOFTWARE PROJECT MANAGEMENT</h1>
+<head>
+	<link rel="stylesheet" type="text/css" href="CSS/Style.css">
+	<link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
+	<title>Homepage | Hello Wolrd</title>
+</head>
+<body>
+	<br><br>
+	<h1>INT206 SOFTWARE PROJECT MANAGEMENT</h1>
+	<div class="sq">
+		<br>
+		
+<div class="sq1">
+	<br>
+	
+	<div class="sq2">
+	<br>
+	
+	<p>
+	<marquee behavior="alternate" width="10%">🌟</marquee>
+        <%=request.getAttribute("message")%>
+	<marquee behavior="alternate" width="10%">
+		 🌟</marquee></p><br><br>
+	<img src="Image/world.gif">
+	<br><br><br><br><br>
+	</div>
+	<br>
+</div>
+<br>
+</div>
 
-        <p>" <%=request.getAttribute("message") %> "</p><br><br><br>
-        <img src="image/world.gif">
-    </body>
+</body>
 </html>
