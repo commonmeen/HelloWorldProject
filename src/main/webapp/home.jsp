@@ -19,11 +19,11 @@
 	<br>
 	
 	<p>
-	<marquee behavior="alternate" width="10%">🌟</marquee>
+	<marquee behavior="alternate" width="10%">*</marquee>
         <%=request.getAttribute("message")%>
 	<marquee behavior="alternate" width="10%">
-		 🌟</marquee></p><br><br>
-	<img src="Image/world.gif">
+		 *</marquee></p><br><br>
+	<img src="image/world.gif">
 	<br><br><br><br><br>
 	</div>
 	<br>
