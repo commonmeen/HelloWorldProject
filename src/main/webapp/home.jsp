@@ -2,9 +2,9 @@
  <!DOCTYPE html>
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="CSS/Style.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
-	<title>Homepage | Hello Wolrd</title>
+	<title>Homepage | Hello World</title>
 </head>
 <body>
 	<br><br>
