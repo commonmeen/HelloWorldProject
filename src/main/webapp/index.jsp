@@ -8,9 +8,11 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <marquee>Hello World!</marquee>
         <form action="HelloServlet" method="post">
             <button type="submit">GO</button>
         </form>
+        
+
     </body>
 </html>
