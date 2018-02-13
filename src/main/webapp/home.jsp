@@ -8,7 +8,8 @@
 </head>
 <body>
 	<br><br>
-	<h1>INT206 SOFTWARE PROJECT MANAGEMENT</h1>
+        <h3>WELCOME TO</h3>
+	<h1>" INT206 SOFTWARE PROJECT MANAGEMENT "</h1>
 	<div class="sq">
 		<br>
 		

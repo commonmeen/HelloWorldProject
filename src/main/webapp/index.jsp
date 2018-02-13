@@ -11,18 +11,18 @@
     <body>
         <form action="HelloServlet" method="post">
             <br><br>
-            <h1>Hello Everybody</h1>
+            <h1>Hello Everybody</h1>            
             <div class="sq">
                 <br>
 
                 <div class="sq1">
                     <br>
-
                     <div class="sq2">
-                        <br>
+                        <img src="image/pumpgirl.gif">
+                        
                         <p>
                         <marquee behavior="alternate" width="10%">^^</marquee>
-                        <button class="btn" type="submit">GO</button>
+                        <button class="btn" type="submit"><b>G O !</b></button>
                         <marquee behavior="alternate" width="10%">
                             ^^</marquee></p><br><br>
                         <br><br><br><br><br>
