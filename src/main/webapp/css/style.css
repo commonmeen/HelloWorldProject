@@ -37,3 +37,11 @@ img{
     margin: 5%;
     border-radius: 10%;
 }
+
+.btn{
+    font-size: 39px;
+    background: #ffb200;
+    border-radius: 23%;
+    padding: 3%;
+    border: 4px;
+}
